@@ -1,1 +1,1 @@
-This is NLP coure file
+This is NLP course file
